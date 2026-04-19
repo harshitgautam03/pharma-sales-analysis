@@ -9,7 +9,7 @@ This project analyzes daily pharmaceutical sales data using SQL and Power BI.
 - Excel / CSV
 
 ## 📊 Dashboard Preview
-![Dashboard](images/dashboard-preview.png)
+![Dashboard](images/PharmaSalesDaily.png)
 
 ## 🔍 Key Work
 - Data cleaning using SQL
